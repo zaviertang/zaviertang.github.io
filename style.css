@@ -1,0 +1,15 @@
+* {
+  font-family: "Microsoft YaHei";
+}
+
+.fish {
+  padding-top: 150px;
+  text-align: center;
+}
+
+.fish > .ding > img {
+  width: 100px;
+  height: auto;
+  padding: 10px;
+}
+
