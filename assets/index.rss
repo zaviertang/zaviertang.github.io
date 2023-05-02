@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[流动森林]]></title>
+		<description><![CDATA[欢迎收听流动森林～]]></description>
+		<link>https://podcasters.spotify.com/pod/show/thxforest</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37219412/37219412-1680753586325-c42bd75ee6baf.jpg</url>
+			<title>流动森林</title>
+			<link>https://podcasters.spotify.com/pod/show/thxforest</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Fri, 28 Apr 2023 09:44:23 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/de70e750/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[小林 & 小树]]></author>
+		<copyright><![CDATA[小林 & 小树]]></copyright>
+		<language><![CDATA[zh-cn]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>小林 &amp; 小树</itunes:author>
+		<itunes:summary>欢迎收听流动森林～</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>小林 &amp; 小树</itunes:name>
+			<itunes:email>zavier.v@outlook.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Society &amp; Culture"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37219412/37219412-1680753586325-c42bd75ee6baf.jpg"/>
+		<item>
+			<title><![CDATA[关于流动森林]]></title>
+			<description><![CDATA[<p>流动森林开播啦！</p>
+<p><br></p>
+<p><strong># 主播</strong></p>
+<p>小林：驾校考试一次过</p>
+<p>小树：明天就要办离职</p>
+<p><br></p>
+<p><strong># 收听指南</strong></p>
+<p>推荐使用 Spotify、PocketCast、Castro、Apple Podcast 等泛用型播客平台搜索 “流动森林” 收听节目。我们的订阅地址是：https://anchor.fm/s/de70e750/podcast/rss</p>
+<p>拜拜～</p>
+<p>拜～</p>
+<p><br></p>
+<p><strong># 本期节目使用的音乐</strong></p>
+<p>1. Walking all day, by Graham Coxon</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/thxforest/episodes/ep-e231lks</link>
+			<guid isPermaLink="false">a1a29e5c-9b0e-4383-a41e-a0b4ed2d61b2</guid>
+			<dc:creator><![CDATA[小林 & 小树]]></dc:creator>
+			<pubDate>Wed, 26 Apr 2023 04:29:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/de70e750/podcast/play/69309532/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-26%2F326089051-44100-2-929267d4ab053.m4a" length="1036487" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;流动森林开播啦！&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;# 主播&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小林：驾校考试一次过&lt;/p&gt;
+&lt;p&gt;小树：明天就要办离职&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;# 收听指南&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;推荐使用 Spotify、PocketCast、Castro、Apple Podcast 等泛用型播客平台搜索 “流动森林” 收听节目。我们的订阅地址是：https://anchor.fm/s/de70e750/podcast/rss&lt;/p&gt;
+&lt;p&gt;拜拜～&lt;/p&gt;
+&lt;p&gt;拜～&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;# 本期节目使用的音乐&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1. Walking all day, by Graham Coxon&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:01:03</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37219412/37219412-1680753586325-c42bd75ee6baf.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
