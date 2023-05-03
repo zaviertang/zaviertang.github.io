@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet href="rss.xsl" type="text/xsl"?> -->
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>流动森林</title>
+	  <itunes:subtitle>流动森林副标题</itunes:subtitle>
+	  <link>https://nomadfroest.com</link>
+	  <atom:link href="http://nomadforest.com/rss" rel="self" type="application/rss+xml"/>
+	  <description>关于生活和生活本身</description>
+	  <language>zh-CN</language>
+		<copyright>&#xA9; 2023 NomadForest.com</copyright>
+    <itunes:category text="Society &amp; Culture"/>
+	  <itunes:image href="http://nomad-forest.test.upcdn.net/000image.jpeg"/>
+	  <itunes:keywords>生活,旅行,无业游民</itunes:keywords>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:author>小林 &amp; 小树</itunes:author>
+	  <itunes:owner>
+	    <itunes:name>小林 &amp; 小树</itunes:name>
+	    <itunes:email>hi@nomadforest.com</itunes:email>
+	  </itunes:owner>
+		<item>
+      <title><![CDATA[关于流动森林]]></title>
+      <description>
+        <![CDATA[<p>流动森林开播啦！</p>
+        <p><br></p>
+        <p><strong># 主播</strong></p>
+        <p>小林：驾校考试一次过</p>
+        <p>小树：明天就要办离职</p>
+        <p><br></p>
+        <p><strong># 收听指南</strong></p>
+        <p>推荐使用 PocketCast、Castro、Apple Podcast 等泛用型播客平台搜索 “流动森林” 收听节目。我们的订阅地址是：http://nomadforest.com/rss</p>
+        <p>拜拜～</p>
+        <p>拜～</p>
+        <p><br></p>
+        <p><strong># 本期节目使用的音乐</strong></p>
+        <p>1. Walking all day, by Graham Coxon</p>
+        ]]>
+      </description>
+      <link>https//nomadforest.com/001</link>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="true">https//nomadforest.com/001</guid>
+      <author>小林、小树</author>
+      <pubDate>Thu, 20 Apr 2023 03:06:26 +0800</pubDate>
+      <enclosure type="audio/mpeg" url="https://a.anw.red/audio/anyway-167.mp3"/>
+      <itunes:duration>3075</itunes:duration>
+      <itunes:image href="https://s.anw.red/images/poster-167.jpg"/>
+    </item>
+	</channel>
+</rss>
